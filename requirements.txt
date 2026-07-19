@@ -1,0 +1,8 @@
+mcp
+llama-index-embeddings-huggingface
+qdrant-client
+torch
+transformers
+tqdm
+requests
+python-dotenv
