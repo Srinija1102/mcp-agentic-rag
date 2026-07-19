@@ -29,7 +29,11 @@ Answer 8: Not always. Irrelevant or redundant features can reduce performance an
 Question 9: How do I avoid overfitting?
 Answer 9: Use techniques like cross-validation, regularization, pruning (for trees), and dropout (for neural nets).
 
+Question 10: Why is cross-validation important?
+Answer 10: It provides a more reliable estimate of model performance by reducing bias from a single train-test split.
 
+Question 11: What's a good train-test split ratio?
+Answer 11: Common ratios are 80/20 or 70/30, but use cross-validation for more robust evaluation.
 
 Question 12: Should I tune hyperparameters?
 Answer 12: Yes. Use grid search, random search, or Bayesian optimization to improve model performance.
